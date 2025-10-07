@@ -1,16 +1,17 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Xavier Santos Mota
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Xavier Santos Mota
+<!-- Physicist, Mathematician, Cambridge professor. -->
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="xaviersantosmota@gmail.com">xaviersantosmota@gmail.com</a>
+| <a (+351) 966 118 086</a>
+| <a Vila Verde, Portugal</a>
 </div>
 
-
+<!--
 ## Currently
 
 Standing on the shoulders of giants
@@ -24,12 +25,16 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
+-->
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020-Present`
+__Bachelors and Masters in Software Engineering__
 
+- Universidade do Minho
+
+<!--
 `June 1661 - now`
 __Trinity College, Cambridge__
 
@@ -40,7 +45,7 @@ __Trinity College, Cambridge__
 
 - Fellow
 
-
+-->
 
 ## Awards
 
@@ -51,8 +56,10 @@ Associate, *French Academy of Science*, Paris, France
 
 
 
-## Publications
+## University Projects
 
+`2020`
+[Pacman] (youtube.com) game in haskell 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
