@@ -59,7 +59,7 @@ Associate, *French Academy of Science*, Paris, France
 ## University Projects
 
 `2020`
-[Pacman] (http://www.youtube.com) game in haskell 
+[Pacman](http://www.youtube.com) game in haskell 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
