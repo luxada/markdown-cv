@@ -4,11 +4,6 @@ title: Xavier Santos Mota
 ---
 # Xavier Santos Mota
 
-<div id="webaddress">
-<a href="xaviersantosmota@gmail.com">xaviersantosmota@gmail.com</a>
-|  (+351) 966 118 086
-|  Vila Verde, Portugal
-</div>
 
 
 ## Currently
